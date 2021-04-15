@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "expressavanzado-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ExpressAvanzado2.js",
+  "scripts": {
+    "start": "node ExpressAvanzado2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
